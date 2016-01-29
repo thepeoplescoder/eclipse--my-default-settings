@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="1072" name="Visual Studio Like" modified="2014-10-17 13:01:12" author="stania">
+    <searchResultIndication color="#CCEEEE" />
+    <filteredSearchResultIndication color="#CCEEEE" />
+    <occurrenceIndication color="#FFFF80" />
+    <writeOccurrenceIndication color="#FFFF80" />
+    <findScope color="#BCADAD" />
+    <deletionIndication color="#9b5656" bold="false" />
+    <sourceHoverBackground color="#EEEEEE" />
+    <singleLineComment color="#008000" bold="false" />
+    <multiLineComment color="#008000" bold="false" />
+    <commentTaskTag color="#008000" bold="false" />
+    <javadoc color="#757575" bold="true" />
+    <javadocLink color="#0000FF" bold="false" />
+    <javadocTag color="#008000" bold="false" />
+    <javadocKeyword color="#0000FF" bold="true" />
+    <class color="#2B91AF" bold="true" />
+    <interface color="#2B91AF" bold="false" />
+    <method color="#000000" bold="false" />
+    <methodDeclaration color="#800000" bold="false" />
+    <bracket color="#FF00FF" bold="true" />
+    <number color="#35357F" bold="true" />
+    <string color="#A31515" bold="false" />
+    <operator color="#FF00FF" bold="true" />
+    <keyword color="#0000FF" bold="false" />
+    <annotation color="#2B91AF" bold="false" />
+    <staticMethod color="#000040" bold="false" />
+    <localVariable color="#000080" bold="false" />
+    <localVariableDeclaration color="#000080" bold="false" />
+    <field color="#800080" bold="false" />
+    <staticField color="#800040" bold="false" />
+    <staticFinalField color="#800040" bold="false" />
+    <deprecatedMember color="#ab2525" bold="false" />
+    <enum color="#2B91AF" bold="false" />
+    <inheritedMethod color="#000000" bold="false" />
+    <abstractMethod color="#000000" bold="false" />
+    <parameterVariable color="#666666" bold="false" />
+    <typeArgument color="#885d3b" bold="false" />
+    <typeParameter color="#885d3b" bold="false" />
+    <constant color="" bold="false" />
+    <background color="#FFFFFF" />
+    <currentLine color="#DDEEFF" />
+    <foreground color="#000000" />
+    <lineNumber color="#999999" />
+    <selectionBackground color="#BFCDDB" />
+    <selectionForeground color="#000000" />
+</colorTheme>
